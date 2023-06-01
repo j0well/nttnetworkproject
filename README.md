@@ -127,6 +127,7 @@ Renamed the file.
 Created the Docuwiki page for server information!!!
 
 ![image](https://github.com/j0well/nttnetworkproject/assets/126909236/7b27b2f2-4a69-4f70-840e-b5e06e163774)
+![image](https://github.com/j0well/nttnetworkproject/assets/126909236/32f25563-bd43-45e3-b675-0d2cbf9eea58)
 
 
 #### Crated a VIP on the firewall
