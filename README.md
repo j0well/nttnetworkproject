@@ -1,17 +1,17 @@
 # nttnetworkproject
 Building a Network for a company 
-This is what I did for NTT
+This is what I did for NTT NEtworking project: 
 
 <img width="373" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/8e99b558-95d8-49d1-a3a1-0a8d72436ad5">
 
 Starting with building the network I configured the CLI in the Fortigate Firewall 
-Starting with building the network I configured the CLI in the Fortigate Firewall 
-
-## Network Setup 
-Task: 
+The task was: 
 Build out the network infrastructure for the small business environment.
 The client requested a LAN, Guest, and DMZ network.
 Build these networks on a FortiNet firewall (a FortiGate).
+
+
+## Network Setup 
 
 ### Configured the LAN interface using putty 
 !<img width="566" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/eee818a2-5f27-4716-a75a-1ad2074ad73a">
@@ -123,7 +123,10 @@ Created the Docuwiki page for server informatin!!!
 ### Install the FTP service
 
 Unfortunatly, I forgot to screen shot this day! But this is the documentation used for the FTP installation  
-[Windows SErver 2012 FTP insallation]https://social.technet.microsoft.com/wiki/contents/articles/12364.windows-server-2012-ftp-installation.aspx
+[Windows SErver 2012 FTP insallation](https://social.technet.microsoft.com/wiki/contents/articles/12364.windows-server-2012-ftp-installation.aspx)
 
 #### Scanned enviornment for Vunerabliities
 <img width="702" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/b4acd60a-c655-4299-ac41-6ca76bd043ed">
+
+#### Final Topography after setting up infrastructure! 
+<img width="367" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/3ff2d004-8750-40ca-8f35-db9606b10012">
