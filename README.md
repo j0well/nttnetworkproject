@@ -61,16 +61,20 @@ Changed DC name.
 <img width="448" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/5a627a9e-700b-49d5-932b-e8dc446b9fa6">
 
 Added myself and team to Active Directory Users and Computers.
+
 <img width="504" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/2256c8a7-ce4e-41e8-84cd-3cd9f6358d6a">
 
 Added myself and team to Groups.
+
 <img width="508" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/6cf08933-6477-4440-9e1f-b2c17ad48952">
 
 ### Add Win10 workstation to the domain
  <img width="246" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/a78d9e10-c98a-48bf-a359-5da714a27cd9">
+ 
 Once changes were made verified user and admin log-ins 
 
 Changed the background for all users
+
 <img width="564" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/36dda269-fa4c-4237-a2fd-0b6b8d7b9681">
 
 #### IIS Setup
@@ -81,6 +85,7 @@ The client has requested the server name be: iis.widgets.localdomain
 <img width="361" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/6f0158b9-e456-429f-b9dd-1eed0eab2e92">
 
 Added test page to verify.
+
 <img width="570" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/ee481e6e-334a-4c8a-839f-1c5011f794e0">
 
 <img width="359" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/af9b4065-4e7c-4d4d-b6bd-b5a720f077dc">
