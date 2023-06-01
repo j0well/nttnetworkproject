@@ -91,14 +91,39 @@ Task:
 - Build a LAMP webserver on Ubuntu server on the DMZ network.
 - The client has requested the server name be: www.widgets.localdomain
 
-### Prepared Ubuntu Server
+#### Prepared Ubuntu Server
 
 ![image](https://github.com/j0well/nttnetworkproject/assets/126909236/776ea89d-546f-4eab-9f54-0e70c8b65ef6)
 ![image](https://github.com/j0well/nttnetworkproject/assets/126909236/8142bed6-8887-46b9-82f0-353c39ad485a)
 ![image](https://github.com/j0well/nttnetworkproject/assets/126909236/bb1335bd-5955-43da-9914-f4e4ddc0239f)
 
 ### Install DokuWiki
-Instaled with nano in 
+Instaled with nano  
+
 <img width="496" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/5b5cbbb0-21fe-4777-8a15-1e9413d8651a">
 
+<img width="495" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/f18f4268-33df-486f-92bd-1d52436524c1">
 
+### Configure DokuWiki
+
+<img width="493" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/98427d36-fe19-4ec5-be34-a0c684cc878a">
+
+Renamed the file.
+![image](https://github.com/j0well/nttnetworkproject/assets/126909236/0f31704d-3977-4df5-82f6-a678a0013b54)
+
+Created the Docuwiki page for server informatin!!!
+![image](https://github.com/j0well/nttnetworkproject/assets/126909236/7b27b2f2-4a69-4f70-840e-b5e06e163774)
+![image](https://github.com/j0well/nttnetworkproject/assets/126909236/7b315d5d-9807-4d17-99d8-e765080e5783)
+
+#### Crated a VIP on the firewall
+
+![image](https://github.com/j0well/nttnetworkproject/assets/126909236/020ca210-7abd-4188-800f-ff10f4952c0b)
+![image](https://github.com/j0well/nttnetworkproject/assets/126909236/f70a4507-1b84-4394-8373-0ab6b682f723)
+
+### Install the FTP service
+
+Unfortunatly, I forgot to screen shot this day! But this is the documentation used for the FTP installation  
+[Windows SErver 2012 FTP insallation]https://social.technet.microsoft.com/wiki/contents/articles/12364.windows-server-2012-ftp-installation.aspx
+
+#### Scanned enviornment for Vunerabliities
+<img width="702" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/b4acd60a-c655-4299-ac41-6ca76bd043ed">
