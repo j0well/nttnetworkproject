@@ -38,6 +38,8 @@ disabled if you were concerned about peak performance for boot up.
 Updated all the configurations fot DMZ, LAN and WAN policys in the firewall GUI.
 
 #### Domain Setup
+Task: Add a Win2012r2 server to the lab workspace.
+
 <img width="531" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/a4641571-1f4a-4ef1-8a3d-7e313735191e">
 
 Changed the address of teh network adapter.
@@ -66,9 +68,37 @@ Added myself and team to Groups.
 
 ### Add Win10 workstation to the domain
  <img width="246" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/a78d9e10-c98a-48bf-a359-5da714a27cd9">
+Once changes were made verified user and admin log-ins 
 
-###
-###
-###
+Changed the background for all users
+<img width="564" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/36dda269-fa4c-4237-a2fd-0b6b8d7b9681">
+
+#### IIS Setup
+Task: Build a IIS webserver on a win2012r2 server, and join the server to the domain.
+The client has requested the server name be: iis.widgets.localdomain
+
+### Installed the IIS server. 
+<img width="361" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/6f0158b9-e456-429f-b9dd-1eed0eab2e92">
+
+Added test page to verify.
+<img width="570" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/ee481e6e-334a-4c8a-839f-1c5011f794e0">
+
+<img width="359" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/af9b4065-4e7c-4d4d-b6bd-b5a720f077dc">
+
+#### Lamp Setup
+<img width="500" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/586da128-eb7c-46c1-92d5-be7b9c8e86ad">
+Task: 
+- Build a LAMP webserver on Ubuntu server on the DMZ network.
+- The client has requested the server name be: www.widgets.localdomain
+
+### Prepared Ubuntu Server
+
+![image](https://github.com/j0well/nttnetworkproject/assets/126909236/776ea89d-546f-4eab-9f54-0e70c8b65ef6)
+![image](https://github.com/j0well/nttnetworkproject/assets/126909236/8142bed6-8887-46b9-82f0-353c39ad485a)
+![image](https://github.com/j0well/nttnetworkproject/assets/126909236/bb1335bd-5955-43da-9914-f4e4ddc0239f)
+
+### Install DokuWiki
+Instaled with nano in 
+<img width="496" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/5b5cbbb0-21fe-4777-8a15-1e9413d8651a">
 
 
