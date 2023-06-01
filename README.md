@@ -139,7 +139,7 @@ Created the Docuwiki page for server information!!!
 
 Unfortunatly, I forgot to screen shot this day! But this is the documentation used for the FTP installation.
 
-[Windows SErver 2012 FTP insallation](https://social.technet.microsoft.com/wiki/contents/articles/12364.windows-server-2012-ftp-installation.aspx)
+[Windows Server 2012 FTP insallation](https://social.technet.microsoft.com/wiki/contents/articles/12364.windows-server-2012-ftp-installation.aspx)
 
 #### Scanned enviornment for Vunerabliities using GreenBone
 <img width="702" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/b4acd60a-c655-4299-ac41-6ca76bd043ed">
