@@ -22,10 +22,10 @@ Build these networks on a FortiNet firewall (a FortiGate).
 Verified the Win10 workstation has leased a DHCP address from the LAN network.
 ![image](https://github.com/j0well/nttnetworkproject/assets/126909236/d8fe7efb-6104-41a2-9b78-8ea0f0b25380)
 
-###Ping remote destinations to test LAN, WAN, and DNS network connectivity.
+### Ping remote destinations to test LAN, WAN, and DNS network connectivity.
 <img width="544" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/8bcb9dbc-92d1-4e69-8d86-d053e6161ee0">
 
-###Connected to the firewall GUI
+### Connected to the firewall GUI
 Task: 
 - Set the hostname and timezone.
 - Enable the NTP server service. This will allow LAN and DMZ devices to sync time with the firewall.
@@ -37,7 +37,7 @@ disabled if you were concerned about peak performance for boot up.
 <img width="568" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/cead080a-03ab-4840-b5b5-26ecea9a95c8">
 Updated all the configurations fot DMZ, LAN and WAN policys in the firewall GUI.
 
-####Domain Setup
+#### Domain Setup
 <img width="531" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/a4641571-1f4a-4ef1-8a3d-7e313735191e">
 
 Changed the address of teh network adapter.
@@ -52,14 +52,21 @@ I needed to set and sycn all interace timezones on the firewall
 Updated the domain controller name.
 <img width="568" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/31608552-00ce-46b3-9277-bac278848a8f">
 
-###Install Active Directory
+### Install Active Directory
 Changed DC name. 
 <img width="312" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/b586be4b-9898-40ad-a6ad-36f7e136a940">
 
 <img width="448" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/5a627a9e-700b-49d5-932b-e8dc446b9fa6">
 
+Added myself and team to Active Directory Users and Computers.
+<img width="504" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/2256c8a7-ce4e-41e8-84cd-3cd9f6358d6a">
 
-###
+Added myself and team to Groups.
+<img width="508" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/6cf08933-6477-4440-9e1f-b2c17ad48952">
+
+### Add Win10 workstation to the domain
+ <img width="246" alt="image" src="https://github.com/j0well/nttnetworkproject/assets/126909236/a78d9e10-c98a-48bf-a359-5da714a27cd9">
+
 ###
 ###
 ###
