@@ -124,10 +124,10 @@ Renamed the file.
 
 ![image](https://github.com/j0well/nttnetworkproject/assets/126909236/0f31704d-3977-4df5-82f6-a678a0013b54)
 
-Created the Docuwiki page for server informatin!!!
+Created the Docuwiki page for server information!!!
 
 ![image](https://github.com/j0well/nttnetworkproject/assets/126909236/7b27b2f2-4a69-4f70-840e-b5e06e163774)
-![image](https://github.com/j0well/nttnetworkproject/assets/126909236/7b315d5d-9807-4d17-99d8-e765080e5783)
+
 
 #### Crated a VIP on the firewall
 
